@@ -1,0 +1,1 @@
+# Nizom proguard rules
